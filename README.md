@@ -9,7 +9,7 @@ Track live ICU bed availability in your neareast hospital.
 * Live ICU Bed
 * Ambulance Booking
 * One Tap Call Hospital
-* Near me Hospital
+* Near me Hospital (Contacts)
 
 
 ### Contains : 
