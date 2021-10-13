@@ -21,6 +21,9 @@ Track live ICU bed availability in your neareast hospital.
 * Dark Mode
 
 
+### ScreenShorts
+
+
 ### OnBoard Screen Animation
 
 <img src="https://user-images.githubusercontent.com/54468833/136540497-21dc6291-41d8-42fe-9d1e-b08d798e58a7.gif" width="200" height="420">
